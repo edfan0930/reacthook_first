@@ -20,4 +20,10 @@ function Route() {
     return routes
 }
 
+export const Redirect = ()=> {
+    return 
+}
+
+
+
 export default Route
