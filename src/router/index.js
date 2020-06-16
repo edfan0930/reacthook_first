@@ -1,5 +1,5 @@
 import Path from './path.js'
-import Views from './containers.js'
+import Views from '../containers'
 
 function Route() {
 //    let objKeys = Object.keys(Containers)
